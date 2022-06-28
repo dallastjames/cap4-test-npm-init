@@ -1,0 +1,11 @@
+{
+  "appId": "com.dallastjames.cap4testnpminit",
+  "appName": "cap4-test-npm-init",
+  "bundledWebRuntime": true,
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
